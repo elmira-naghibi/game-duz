@@ -1,0 +1,14 @@
+.container{
+    width:800px;
+    height:800px;
+}
+
+.duz__row{
+    display: block;
+    width: 100%;
+    margin: auto;
+}
+
+.duz__row__item{
+
+}
